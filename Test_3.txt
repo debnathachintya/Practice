@@ -11,3 +11,15 @@ public void testREST() {
 	Hello-5
 	Hello-6
 }
+
+public void testJIRA_Develop() {
+	Hello-1
+	Hello-2
+	Hello-3
+}
+
+public void testREST_Develop() {
+	Hello-4
+	Hello-5
+	Hello-6
+}
