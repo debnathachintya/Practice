@@ -1,2 +1,8 @@
 1
 Edited
+
+public void testJIRA() {
+	Hello-1
+	Hello-2
+	Hello-3
+}
