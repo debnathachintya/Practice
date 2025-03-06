@@ -8,3 +8,9 @@ public void testJIRA() {
 	Hello-2
 	Hello-3
 }
+
+public void testREST() {
+	Hello-4
+	Hello-5
+	Hello-6
+}
